@@ -1,0 +1,22 @@
+body {
+    background: linear-gradient(68.5deg, #2E208E 16.57%, #9B56A6 100.9%);
+}
+.ellipse3{
+position: absolute;
+width: 754px;
+height: 769px;
+left: 936px;
+top: 384.09px;
+background: linear-gradient(157.28deg, #DF40A9 7.22%, #4D35A3 57.07%);
+transform: rotate(-0.54deg);
+border-radius: 50%;
+}
+.ellipse2{
+position: absolute;
+width: 754px;
+height: 769px;
+left: -203px;
+top: -179px;
+background: linear-gradient(157.28deg, rgba(148, 38, 186, 0) 41.63%, #9426BA 79.18%);
+border-radius: 50%;
+}
